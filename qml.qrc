@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ModeSelect.qml</file>
+        <file>StatusBar.qml</file>
+        <file>ContentWindow.qml</file>
+        <file>Images/IMG001.png</file>
+    </qresource>
+</RCC>
